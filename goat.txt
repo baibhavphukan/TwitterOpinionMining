@@ -1,0 +1,28 @@
+Positive tweets percentage: 22.5 %
+Negative tweets percentage: 30.0 %
+Neutral tweets percentage: 47.5 % 
+
+
+Positive tweets:
+b"RT @robin_osho: @tehseenp Well for someone who cleaned Rahul Gandhi's shoes by his tongue, cleaning them with chalk surely sounds complicat\xe2\x80\xa6"
+b'RT @davidfrawleyved: What kind of experience does Rahul Gandhi have qualifying him to be PM? Has never headed a company, much less been a C\xe2\x80\xa6'
+b'RT @davidfrawleyved: Rahul Gandhi has been trying to emerge for over a decade now. No other politician has been more remade and reinvented\xe2\x80\xa6'
+b'RT @DilliDurAst: I\xe2\x80\x99ve been saying this for months. It\xe2\x80\x99s already too late. Rahul Gandhi thought Rafale will win him this election. Doesn\xe2\x80\x99t u\xe2\x80\xa6'
+b'# We need to know many thing from Rahul Gandhi and he can teach to the public that how to be successful corrupt pol\xe2\x80\xa6 https://t.co/kQSdbVpJ1x'
+b'Like  Rahul Gandhi, now Liberals also have developed an obsession with Modi. They will criticize anything that Modi does !!!\n#AayegaToModiHi'
+b'RT @republic: #ShahSpeaksToArnab| I think advocates like Kapil Sibal should make Rahul Gandhi understand the legal position (on the case Ra\xe2\x80\xa6'
+b'BJP Cheap Trick to Defeat Rahul Gandhi in Wayanad read more: https://t.co/jrDQJpqzSp https://t.co/Qpt44pRk1g'
+b'@one_by_two But rahul Gandhi is actually competing with the rajpal type comedy in real life whom you are chamcha actually ... what say'
+
+
+Negative tweets:
+b'RT @the_hindu: "Narendra Modi in 2014 made a number of false assurances of \xe2\x80\x98achhe din\xe2\x80\x99, but none of them came true...This chowkidar obliged\xe2\x80\xa6'
+b'RT @GoSlowplz: Raj tackrey wants Rahul Gandhi as pm, modi worst pm in the history of india https://t.co/ydyxyT6EbC'
+b"@IndiaMeToo Rahul Gandhi's alleged relationship with a lost woman..\nWhere is she???"
+b'NDA candidate from Wayanad Thushar Vellappally seeks review of Rahul Gandhi\xe2\x80\x99s Wayanad nomination over foreign passp\xe2\x80\xa6 https://t.co/xQMgJktS7T'
+b'RT @sunandavashisht: Why this needless outrage over #ModiWithAkshay . Who is stopping Rahul Gandhi from doing #RahulwithSwara? I would actu\xe2\x80\xa6'
+b"@aavinashchaliha @drshamamohd Kuch bhi matlab,if you hate modi ,ok, but don't become Rahul Gandhi.He himself doesn'\xe2\x80\xa6 https://t.co/ZCwI0OLV7j"
+b'RT @republic: #Modi2019Khiladi | Why is Rahul Gandhi so afraid of giving an interview? Why are they so rattled? Akshay Kumar has every righ\xe2\x80\xa6'
+b'RT @RahulGandhi: My interview, given to Sandeep Phukan of The Hindu, appeared today. We talked about a wide range of subjects, including th\xe2\x80\xa6'
+b'RT @desibrah: Okay, this is serious. @YouTubeIndia WHAT THE HELL IS WRONG WITH YOU? My search for "Modi interview" on YouTube shows a "Fact\xe2\x80\xa6'
+b'RT @theskindoctor13: Today Rahul Gandhi announced a major electoral promise. \xe2\x82\xb972,000 per year to 20% of poor families.\n\nRead this chat scre\xe2\x80\xa6'
